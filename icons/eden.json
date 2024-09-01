@@ -1,3 +1,6 @@
 {"name":"eden icons", "description":"By eden", 
-  "icons":[{"name":"sntp", "url":"https://raw.githubusercontent.com/eadenxu/surge/main/icons/Tannel.png"}, 
-  {"name":"tannel", "url":"https://raw.githubusercontent.com/eadenxu/surge/main/icons/sntp_dark.png"}]}
+  "icons":[
+    {"name":"sntp", "url":"https://raw.githubusercontent.com/eadenxu/surge/main/icons/Tannel.png"}, 
+    
+  {"name":"tannel", "url":"https://raw.githubusercontent.com/eadenxu/surge/main/icons/sntp_dark.png"}
+  ]}

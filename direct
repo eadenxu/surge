@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,sub.nexconvert.com
 #Steam直连规则
 
 
-DOMAIN,steamcdn-a.akamaihd.net,DIRECT
-DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
-DOMAIN-SUFFIX,steamserver.net,DIRECT
-DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com

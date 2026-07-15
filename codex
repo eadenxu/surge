@@ -4,3 +4,16 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatsig.com
+#mobile
+DOMAIN-SUFFIX,*.chatgpt.com
+DOMAIN-SUFFIX,*.openai.com
+DOMAIN-SUFFIX,*.oaistatic.com
+DOMAIN-SUFFIX,*.oaiusercontent.com
+DOMAIN-SUFFIX,*.oaistatsig.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,android.chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,setup.openai.com
+DOMAIN-SUFFIX,setup.workos.com
+DOMAIN-SUFFIX,forwarder.workos.com
+DOMAIN-SUFFIX,challenges.cloudflare.com

@@ -22,3 +22,11 @@ DOMAIN-SUFFIX,shop.micu.me
 #DOMAIN-SUFFIX,nebula-media
 DOMAIN-SUFFIX,xmax.vip
 
+
+
+#CODEX
+DOMAIN-SUFFIX,chatgpt.com,Codex
+DOMAIN-SUFFIX,openai.com,Codex
+DOMAIN-SUFFIX,oaistatic.com,Codex
+DOMAIN-SUFFIX,oaiusercontent.com,Codex
+DOMAIN-SUFFIX,oaistatsig.com,Codex

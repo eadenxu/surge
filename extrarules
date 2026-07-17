@@ -22,3 +22,13 @@ DOMAIN-SUFFIX,shop.micu.me
 #DOMAIN-SUFFIX,nebula-media
 DOMAIN-SUFFIX,xmax.vip
 
+#github
+[Rule]
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github-releases.githubusercontent.com
+DOMAIN-SUFFIX,release-assets.githubusercontent.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,git-scm.com
+

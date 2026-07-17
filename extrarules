@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,shop.micu.me
 DOMAIN-SUFFIX,xmax.vip
 
 #github
-[Rule]
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github-releases.githubusercontent.com

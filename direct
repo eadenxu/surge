@@ -15,8 +15,16 @@ DOMAIN-SUFFIX,sub.nexconvert.com
 #Steam直连规则
 
 DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
-#DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+
+# Steam 商店、社区和登录继续由主配置中的 Steam 规则走 Gamer
 #DOMAIN-SUFFIX,steampowered.com
-#DOMAIN-SUFFIX,steamserver.net
-#DOMAIN-SUFFIX,steamcontent.com

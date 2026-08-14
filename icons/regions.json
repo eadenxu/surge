@@ -1,0 +1,34 @@
+{
+  "name": "Eden 地区图标",
+  "description": "无国旗的 Surge 地区策略组图标",
+  "icons": [
+    {
+      "name": "台湾",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/taiwan.png"
+    },
+    {
+      "name": "香港",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/hong-kong.png"
+    },
+    {
+      "name": "新加坡",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/singapore.png"
+    },
+    {
+      "name": "美国",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/united-states.png"
+    },
+    {
+      "name": "日本",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/japan.png"
+    },
+    {
+      "name": "中国",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/china.png"
+    },
+    {
+      "name": "韩国",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/south-korea.png"
+    }
+  ]
+}

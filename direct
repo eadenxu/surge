@@ -1,6 +1,8 @@
 # NAME: direct
 # AUTHOR: eden
 
+# 哪吒监控直连
+DOMAIN,xycabcd1.f3322.net
 
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,gxtewt.lol

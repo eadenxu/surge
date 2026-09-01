@@ -3,6 +3,7 @@
 
 # 哪吒监控直连
 DOMAIN,status.eaden.uk
+DOMAIN,agent.eaden.uk
 DOMAIN,xycabcd1.f3322.net
 
 DOMAIN-SUFFIX,makima.online

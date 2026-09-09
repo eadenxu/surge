@@ -1,0 +1,106 @@
+{
+  "name": "Eden Surge 策略组图标",
+  "description": "OiL 几何色块风格，128×128 透明 PNG",
+  "icons": [
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/proxy.png"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/openai.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/claude.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/google.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/apple.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/telegram.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/tiktok.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/netflix.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/disney.png"
+    },
+    {
+      "name": "PrimeVideo",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/prime-video.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/youtube.png"
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/bilibili.png"
+    },
+    {
+      "name": "GlobalMedia",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/global-media.png"
+    },
+    {
+      "name": "ChinaMedia",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/china-media.png"
+    },
+    {
+      "name": "Gamer",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/gamer.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/microsoft.png"
+    },
+    {
+      "name": "Github",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/github.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/final.png"
+    },
+    {
+      "name": "香港",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/hong-kong.png"
+    },
+    {
+      "name": "台湾",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/taiwan.png"
+    },
+    {
+      "name": "美国",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/united-states.png"
+    },
+    {
+      "name": "日本",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/japan.png"
+    },
+    {
+      "name": "新加坡",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/regions/singapore.png"
+    },
+    {
+      "name": "NEX",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/nex.png"
+    },
+    {
+      "name": "守候",
+      "url": "https://raw.githubusercontent.com/eadenxu/surge/main/icons/policies/guard.png"
+    }
+  ]
+}

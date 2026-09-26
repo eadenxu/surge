@@ -1,0 +1,5 @@
+# Muse
+# Source: user-provided RocM rules
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,ecto1.ai

@@ -3,3 +3,9 @@
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,museai.com
 DOMAIN-SUFFIX,ecto1.ai
+
+# Muse client API and VM gateway domains
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN,node.hatch.one
+DOMAIN-SUFFIX,customer.prod.willow606.com

@@ -1,0 +1,23 @@
+# NAME: DMIT US
+# Scope: Grok / Cursor
+# Upstream snapshot: 2026-10-13
+# https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/cursor.list
+# https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/xai.list
+# Policy is assigned by the local Surge profile.
+
+# Cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.com
+
+# Additional endpoints
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN,accounts.spacex.ai
+DOMAIN,auth.grokusercontent.com
